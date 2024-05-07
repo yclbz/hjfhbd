@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>胡杰弘生日快樂</title>
+</head>
+<body>
+    
+    <font face="標楷體" lang="ZH-TW" size="5" color="#0000C6"><center><h1><B>恭賀勤益科大資工系大三胡杰弘聖誕千秋</B></h1></center></font>
+    <center>
+        <font face="標楷體" lang="ZH-TW" size="9" color="#0000C6"><center><B>能歌又善舞</B></center></font>
+        <font face="標楷體" lang="ZH-TW" size="9" color="#000000"><center><B>先聽歌手小杰高歌一曲</B></center></font>
+        <video preload="auto"  autoplay loop width="600" poster="C:\Users\PC\Downloads\18684CEA-7150-48DA-B857-479ADD673328.jpg"controls>
+            <source src=C:\Users\PC\Downloads\IMG_5749.mp4 type="video/mp4">
+        </video>
+
+        <font face="標楷體" lang="ZH-TW" size="9" color="#000000"><center><B>再來看舞者小杰帥氣英姿</B></center></font>
+        <video preload="auto"  autoplay loop width="600" poster="C:\Users\PC\Downloads\S__64840090.jpg"controls>
+            <source src=C:\Users\PC\Downloads\736774853.113950.mp4 type="video/mp4">
+        </video>
+    </center>
+    <font face="標楷體" lang="ZH-TW" size="9" color="#000000"><center><B>好看了那麼多了</B></center></font>
+    <font face="標楷體" lang="ZH-TW" size="9" color="#000000"><center><B>今天是我21歲生日哦</B></center></font>
+    <font face="標楷體" lang="ZH-TW" size="9" color="#000000"><center><B>請祝我生日快樂</B></center></font>
+    <font face="標楷體" lang="ZH-TW"  color="#0000C6"><center><h2><B><a href="https://www.instagram.com/jiehong514?igsh=aGMxMmkxeGpmajZh">IG請點我<br></B></h1></center></font>
+    <center><IMG SRC=C:\Users\PC\Downloads\S__2351120.jpg height="650"></IMG></center>
+    </body>
+</html>
